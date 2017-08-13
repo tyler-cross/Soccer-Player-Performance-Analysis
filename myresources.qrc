@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/new/images">
+        <file>Football.png</file>
+        <file>Jumper-100.png</file>
+        <file>Jersey-100.png</file>
+        <file>Jersey-1.jpg</file>
+        <file>Jersey-2.jpg</file>
+        <file>Jersey-3.jpg</file>
+        <file>Jersey-4.jpg</file>
+        <file>Jersey-5.jpg</file>
+        <file>Jersey-6.jpg</file>
+        <file>Jersey-7.jpg</file>
+        <file>Jersey-8.jpg</file>
+        <file>Jersey-9.jpg</file>
+        <file>Jersey-10.jpg</file>
+        <file>Jersey-11.jpg</file>
+        <file>600x382.jpg</file>
+        <file>greenrect.png</file>
+        <file>soccerfield.png</file>
+        <file>soccerfield.jpg</file>
+    </qresource>
+    <qresource prefix="/new/files">
+        <file>player2.txt</file>
+        <file>decimaldata.txt</file>
+        <file>decimaldatanew.txt</file>
+        <file>02262017newdata.txt</file>
+        <file>coordinates.txt</file>
+        <file>soccerballcoordinates.txt</file>
+        <file>17081100.txt</file>
+        <file>17081105.txt</file>
+        <file>17081104.txt</file>
+        <file>17081103.txt</file>
+        <file>17081102.txt</file>
+        <file>17081101.txt</file>
+    </qresource>
+</RCC>
